@@ -10,7 +10,7 @@
 
 一段 63 秒的跨番二创：从剧情和素材出发，补出关键动作，再完成日语对白、中日双语字幕与声音返修。
 
-[**看第六期制作教程（6 分 42 秒）→**](https://www.bilibili.com/video/BV1TRpz6EE1L/)
+[**查看skill使用教程（6 分 42 秒）→**](https://www.bilibili.com/video/BV1TRpz6EE1L/)
 
 ## 开源工具
 
